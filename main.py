@@ -1,5 +1,4 @@
-#wokedev
-
+#WokeDev
 #input grid
 grid = [[6,0,4,0,0,0,9,1,0],
         [8,9,0,4,5,0,3,0,0],
